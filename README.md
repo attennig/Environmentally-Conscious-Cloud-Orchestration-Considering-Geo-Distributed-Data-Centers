@@ -8,4 +8,4 @@ Paper (extended abstract): https://www.sicsa.ac.uk/wp-content/uploads/2024/11/LO
 
 
 ## Reproducibility
-Run experiments.sh to execute the esperiments and plot/src/makeplots_esp.sh to get graphs presented in the paper.
+Run experiments.sh to execute the experiments and plot/src/makeplots_esp.sh to get the graphs presented in the paper.
