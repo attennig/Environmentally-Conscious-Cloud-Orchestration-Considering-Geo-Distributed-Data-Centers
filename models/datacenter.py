@@ -1,4 +1,3 @@
-import config
 class Profile:
     def __init__(self, data):
         self.PUE = float(data["static"]["PUE"])
@@ -48,18 +47,3 @@ class Datacenter:
         off_site = carbon_capture_loss(self.profile.ELIF[timestamp]) * (energy_consumption * self.profile.PUE) 
         on_site = carbon_capture_loss(self.profile.LUE) * energy_consumption
         return off_site + on_site
-    
-
-"""
-    def get_water_use(self, timestamp: str, energy_consumption: float) -> float:
-        if config.wue_type == "dynamic":
-            return self.get_water_use_dynamic(timestamp, energy_consumption)
-        return self.get_water_use_static(timestamp, energy_consumption)
-
-    
-    
-    def get_water_use_dynamic(self, timestamp: str, energy_consumption: float) -> float:
-        off_site = self.profile.EWIF[timestamp] * (energy_consumption * self.profile.PUE) 
-        on_site = self.profile.WUE_dynamic[timestamp] * energy_consumption
-        return (off_site + on_site) * self.profile.WSF
-"""

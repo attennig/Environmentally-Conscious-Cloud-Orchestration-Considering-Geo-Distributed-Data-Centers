@@ -1,7 +1,5 @@
-import random
 from datetime import timedelta, datetime
 import json
-import pandas as pd
 from utils import str_to_date, date_to_str, get_timestamps
 from numpy import random
 

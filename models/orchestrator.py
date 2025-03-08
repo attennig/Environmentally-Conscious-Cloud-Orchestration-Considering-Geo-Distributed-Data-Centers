@@ -39,23 +39,16 @@ class Orchestrator:
         # --------------------
         N = len(self.datacenters)  # Number of data centers
         M = len(jobs)  # Number of jobs
-
-        
-        
         
         max_capacity = self.dc_max_capacity
 
         # Data center capacity (max number of jobs per DC)
         P_max = {d: max_capacity - utilization[d_obj[d].name] for d in range(N)}
 
-
         # --------------------
         # Decision Variables
         # --------------------
         x = LpVariable.dicts("x", [(j, d) for j in range(M) for d in range(N)], cat=LpBinary)
-        #m = LpVariable.dicts("m", [j for j in range(M) ], cat=LpBinary) # m[j] = 1 --> the job has been migrated
-        #n = LpVariable.dicts("n", [d for d in range(N) ], cat=LpInteger) # n[d] = the number of jobs that have been migrated from d
-
         # --------------------
         # Objective Function: Minimize Sustainability Impact
         # --------------------
