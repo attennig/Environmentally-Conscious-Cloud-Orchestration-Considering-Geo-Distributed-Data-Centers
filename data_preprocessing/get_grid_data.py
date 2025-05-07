@@ -1,7 +1,7 @@
 
 import os, csv, json
 
-ELECTRICITYMAPS_API_TOKEN = ""
+ELECTRICITYMAPS_API_TOKEN = "oxXFjh6cXPnPd"
 STATE_TO_MAP_ZONE = {
     "Iowa": "US-SE-SOCO",
     "Ireland": "IE",
@@ -18,9 +18,10 @@ STATE_TO_MAP_ZONE = {
     "Denmark": "DK-DK1",
     "Oregon": "US-NW-PACW",
     "Nebraska": "US-CENT-SWPP",
-    "Georgia": "US-SE-SOCO"
+    "Georgia": "US-SE-SOCO", 
+    "California": "US-CAL-CISO", 
+    "Australia": "AU-NSW"
 }
-
 """
     API functions to get the historical energy mix for reginal grids and weather data for cities
 """

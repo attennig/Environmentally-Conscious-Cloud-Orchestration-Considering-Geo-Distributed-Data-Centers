@@ -20,7 +20,9 @@ STATE_TO_MAP_ZONE = {
     "Denmark": "DK-DK1",
     "Oregon": "US-NW-PACW",
     "Nebraska": "US-CENT-SWPP",
-    "Georgia": "US-SE-SOCO"
+    "Georgia": "US-SE-SOCO", 
+    "California": "US-CAL-CISO", 
+    "Australia": "AU-NSW"
 }
 intensity_coefficients = {
     "carbon": {
