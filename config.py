@@ -6,6 +6,7 @@ d_f = "2024-12-17T12:00:00.000Z"
 in_path = f"./data/{d_i}-{d_f}/"
 out_path = f"./out/{d_i}-{d_f}/"
 plot_path = f"./plot/figures/{d_i}-{d_f}/"
+raw_data_path = f"./data_preprocessing/"
 
 algorithm = {
     #"random": (get_random_dc, eval_name),
