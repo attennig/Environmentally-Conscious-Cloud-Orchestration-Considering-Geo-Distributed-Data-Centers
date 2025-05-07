@@ -1,12 +1,7 @@
 
-import os, sys
-import csv, json
+import os, csv, json
 
-import utils
-import config
-import numpy as np
-import pandas as pd
-
+ELECTRICITYMAPS_API_TOKEN = ""
 STATE_TO_MAP_ZONE = {
     "Iowa": "US-SE-SOCO",
     "Ireland": "IE",
@@ -25,6 +20,35 @@ STATE_TO_MAP_ZONE = {
     "Nebraska": "US-CENT-SWPP",
     "Georgia": "US-SE-SOCO"
 }
+
+"""
+    API functions to get the historical energy mix for reginal grids and weather data for cities
+"""
+# electricity maps API to get the historical energy mix for 
+import requests
+def get_zones():
+    url = "https://api.electricitymap.org/v3/zones"
+    response = requests.get(url)
+    data = response.json()
+    return data
+
+def get_feature_last24h(feature: str, zone_key: str):
+    url = "https://api.electricitymap.org/v3/{}/history?zone={}".format(feature,zone_key)
+    print(url)
+    headers = {
+        "auth-token": ELECTRICITYMAPS_API_TOKEN
+    }
+
+    response = requests.get(url, headers=headers)
+
+    # Check if the request was successful
+    if response.status_code == 200:
+        data = response.json()
+        #print("Carbon Intensity Data:", data)
+        return data
+    else:
+        print("Error:", response.status_code, response.text)
+    return None
 
 def get_grid_data():
     """
@@ -45,7 +69,7 @@ def get_grid_data():
 
     energy_mix = {}      
     for zone in set(dc_names.values()):
-        energy_mix[zone] = utils.get_feature_last24h("power-breakdown", zone)["history"]
+        energy_mix[zone] = get_feature_last24h("power-breakdown", zone)["history"]
 
     for dc_name, zone in dc_names.items():
         history = energy_mix[zone]
