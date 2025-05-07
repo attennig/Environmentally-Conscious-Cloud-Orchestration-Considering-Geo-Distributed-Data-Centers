@@ -145,7 +145,7 @@ if args.company == "Meta":
                 json.dump(out, f)
 
 
-if  args.company == "Google":
+if args.company == "Google":
     with open('./data_preprocessing/Report_2024_Google.csv', mode='r') as file:
         csv_reader = csv.DictReader(file, delimiter=';')
         for row in csv_reader:
