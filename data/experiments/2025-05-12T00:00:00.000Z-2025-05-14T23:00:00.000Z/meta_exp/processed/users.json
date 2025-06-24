@@ -1,0 +1,17 @@
+{
+    "0": {
+        "carbon": 1.0,
+        "water": 0.0,
+        "land_use": 0.0
+    },
+    "1": {
+        "carbon": 0.0,
+        "water": 1.0,
+        "land_use": 0.0
+    },
+    "2": {
+        "carbon": 0.0,
+        "water": 0.0,
+        "land_use": 1.0
+    }
+}

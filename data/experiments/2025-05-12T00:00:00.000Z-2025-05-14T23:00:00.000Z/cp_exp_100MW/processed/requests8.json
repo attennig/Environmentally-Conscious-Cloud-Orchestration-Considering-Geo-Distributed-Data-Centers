@@ -1,0 +1,5004 @@
+{
+    "2025-05-12T00:00:00.000Z": [
+        {
+            "job_id": 0,
+            "user_id": 0,
+            "expected_power_per_hour": 7.41,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 1,
+            "user_id": 1,
+            "expected_power_per_hour": 3.48,
+            "expected_lifetime": 1,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 2,
+            "user_id": 2,
+            "expected_power_per_hour": 9.88,
+            "expected_lifetime": 2,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 3,
+            "user_id": 2,
+            "expected_power_per_hour": 2.97,
+            "expected_lifetime": 2,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 4,
+            "user_id": 1,
+            "expected_power_per_hour": 5.69,
+            "expected_lifetime": 4,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 5,
+            "user_id": 2,
+            "expected_power_per_hour": 7.49,
+            "expected_lifetime": 1,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 6,
+            "user_id": 1,
+            "expected_power_per_hour": 3.43,
+            "expected_lifetime": 3,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 7,
+            "user_id": 1,
+            "expected_power_per_hour": 6.15,
+            "expected_lifetime": 2,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 8,
+            "user_id": 2,
+            "expected_power_per_hour": 6.48,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 9,
+            "user_id": 2,
+            "expected_power_per_hour": 4.49,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 10,
+            "user_id": 0,
+            "expected_power_per_hour": 3.1,
+            "expected_lifetime": 1,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 11,
+            "user_id": 2,
+            "expected_power_per_hour": 4.32,
+            "expected_lifetime": 3,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 12,
+            "user_id": 0,
+            "expected_power_per_hour": 8.7,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 13,
+            "user_id": 2,
+            "expected_power_per_hour": 7.43,
+            "expected_lifetime": 3,
+            "request_source": "aws_Sydney"
+        }
+    ],
+    "2025-05-12T01:00:00.000Z": [
+        {
+            "job_id": 14,
+            "user_id": 1,
+            "expected_power_per_hour": 2.29,
+            "expected_lifetime": 2,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 15,
+            "user_id": 0,
+            "expected_power_per_hour": 7.63,
+            "expected_lifetime": 1,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 16,
+            "user_id": 1,
+            "expected_power_per_hour": 7.46,
+            "expected_lifetime": 2,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 17,
+            "user_id": 2,
+            "expected_power_per_hour": 4.1,
+            "expected_lifetime": 2,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 18,
+            "user_id": 2,
+            "expected_power_per_hour": 8.3,
+            "expected_lifetime": 1,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 19,
+            "user_id": 0,
+            "expected_power_per_hour": 0.89,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 20,
+            "user_id": 0,
+            "expected_power_per_hour": 6.04,
+            "expected_lifetime": 4,
+            "request_source": "azure_San Antonio"
+        }
+    ],
+    "2025-05-12T02:00:00.000Z": [
+        {
+            "job_id": 21,
+            "user_id": 0,
+            "expected_power_per_hour": 9.84,
+            "expected_lifetime": 3,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 22,
+            "user_id": 1,
+            "expected_power_per_hour": 6.58,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 23,
+            "user_id": 1,
+            "expected_power_per_hour": 2.84,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 24,
+            "user_id": 2,
+            "expected_power_per_hour": 7.22,
+            "expected_lifetime": 4,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 25,
+            "user_id": 2,
+            "expected_power_per_hour": 1.09,
+            "expected_lifetime": 2,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 26,
+            "user_id": 0,
+            "expected_power_per_hour": 1.87,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 27,
+            "user_id": 1,
+            "expected_power_per_hour": 2.35,
+            "expected_lifetime": 2,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 28,
+            "user_id": 1,
+            "expected_power_per_hour": 4.94,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 29,
+            "user_id": 0,
+            "expected_power_per_hour": 1.55,
+            "expected_lifetime": 2,
+            "request_source": "azure_Northlake"
+        }
+    ],
+    "2025-05-12T03:00:00.000Z": [
+        {
+            "job_id": 30,
+            "user_id": 2,
+            "expected_power_per_hour": 5.43,
+            "expected_lifetime": 1,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 31,
+            "user_id": 1,
+            "expected_power_per_hour": 1.76,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 32,
+            "user_id": 1,
+            "expected_power_per_hour": 0.96,
+            "expected_lifetime": 2,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 33,
+            "user_id": 2,
+            "expected_power_per_hour": 7.88,
+            "expected_lifetime": 2,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 34,
+            "user_id": 1,
+            "expected_power_per_hour": 3.16,
+            "expected_lifetime": 2,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 35,
+            "user_id": 1,
+            "expected_power_per_hour": 8.04,
+            "expected_lifetime": 3,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 36,
+            "user_id": 0,
+            "expected_power_per_hour": 3.59,
+            "expected_lifetime": 4,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 37,
+            "user_id": 1,
+            "expected_power_per_hour": 9.01,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 38,
+            "user_id": 2,
+            "expected_power_per_hour": 4.36,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 39,
+            "user_id": 1,
+            "expected_power_per_hour": 5.52,
+            "expected_lifetime": 2,
+            "request_source": "azure_Des Moines"
+        }
+    ],
+    "2025-05-12T04:00:00.000Z": [
+        {
+            "job_id": 40,
+            "user_id": 2,
+            "expected_power_per_hour": 3.44,
+            "expected_lifetime": 4,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 41,
+            "user_id": 2,
+            "expected_power_per_hour": 3.65,
+            "expected_lifetime": 4,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 42,
+            "user_id": 0,
+            "expected_power_per_hour": 7.85,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 43,
+            "user_id": 0,
+            "expected_power_per_hour": 3.9,
+            "expected_lifetime": 2,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 44,
+            "user_id": 2,
+            "expected_power_per_hour": 7.69,
+            "expected_lifetime": 2,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 45,
+            "user_id": 2,
+            "expected_power_per_hour": 2.28,
+            "expected_lifetime": 1,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 46,
+            "user_id": 1,
+            "expected_power_per_hour": 5.09,
+            "expected_lifetime": 4,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 47,
+            "user_id": 2,
+            "expected_power_per_hour": 8.41,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 48,
+            "user_id": 2,
+            "expected_power_per_hour": 1.3,
+            "expected_lifetime": 4,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 49,
+            "user_id": 2,
+            "expected_power_per_hour": 8.87,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Douglas County"
+        }
+    ],
+    "2025-05-12T05:00:00.000Z": [
+        {
+            "job_id": 50,
+            "user_id": 1,
+            "expected_power_per_hour": 2.14,
+            "expected_lifetime": 4,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 51,
+            "user_id": 1,
+            "expected_power_per_hour": 0.59,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 52,
+            "user_id": 2,
+            "expected_power_per_hour": 8.84,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 53,
+            "user_id": 2,
+            "expected_power_per_hour": 5.82,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 54,
+            "user_id": 1,
+            "expected_power_per_hour": 3.58,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 55,
+            "user_id": 1,
+            "expected_power_per_hour": 8.74,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 56,
+            "user_id": 2,
+            "expected_power_per_hour": 7.02,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 57,
+            "user_id": 0,
+            "expected_power_per_hour": 4.5,
+            "expected_lifetime": 4,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 58,
+            "user_id": 1,
+            "expected_power_per_hour": 0.64,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 59,
+            "user_id": 1,
+            "expected_power_per_hour": 0.67,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 60,
+            "user_id": 2,
+            "expected_power_per_hour": 4.87,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Jackson County"
+        }
+    ],
+    "2025-05-12T06:00:00.000Z": [
+        {
+            "job_id": 61,
+            "user_id": 2,
+            "expected_power_per_hour": 5.03,
+            "expected_lifetime": 2,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 62,
+            "user_id": 0,
+            "expected_power_per_hour": 8.67,
+            "expected_lifetime": 4,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 63,
+            "user_id": 0,
+            "expected_power_per_hour": 2.33,
+            "expected_lifetime": 2,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 64,
+            "user_id": 1,
+            "expected_power_per_hour": 6.51,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 65,
+            "user_id": 0,
+            "expected_power_per_hour": 2.41,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 66,
+            "user_id": 1,
+            "expected_power_per_hour": 8.74,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 67,
+            "user_id": 0,
+            "expected_power_per_hour": 4.5,
+            "expected_lifetime": 1,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 68,
+            "user_id": 0,
+            "expected_power_per_hour": 2.71,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Jackson County"
+        }
+    ],
+    "2025-05-12T07:00:00.000Z": [
+        {
+            "job_id": 69,
+            "user_id": 0,
+            "expected_power_per_hour": 3.79,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 70,
+            "user_id": 1,
+            "expected_power_per_hour": 9.44,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 71,
+            "user_id": 2,
+            "expected_power_per_hour": 4.57,
+            "expected_lifetime": 4,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 72,
+            "user_id": 2,
+            "expected_power_per_hour": 6.35,
+            "expected_lifetime": 2,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 73,
+            "user_id": 2,
+            "expected_power_per_hour": 3.44,
+            "expected_lifetime": 2,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 74,
+            "user_id": 1,
+            "expected_power_per_hour": 0.8,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Dublin"
+        }
+    ],
+    "2025-05-12T08:00:00.000Z": [
+        {
+            "job_id": 75,
+            "user_id": 2,
+            "expected_power_per_hour": 1.46,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 76,
+            "user_id": 0,
+            "expected_power_per_hour": 6.26,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 77,
+            "user_id": 2,
+            "expected_power_per_hour": 5.57,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 78,
+            "user_id": 2,
+            "expected_power_per_hour": 6.29,
+            "expected_lifetime": 1,
+            "request_source": "azure_San Antonio"
+        }
+    ],
+    "2025-05-12T09:00:00.000Z": [
+        {
+            "job_id": 79,
+            "user_id": 0,
+            "expected_power_per_hour": 5.86,
+            "expected_lifetime": 4,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 80,
+            "user_id": 0,
+            "expected_power_per_hour": 6.41,
+            "expected_lifetime": 1,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 81,
+            "user_id": 1,
+            "expected_power_per_hour": 7.17,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 82,
+            "user_id": 2,
+            "expected_power_per_hour": 3.3,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 83,
+            "user_id": 1,
+            "expected_power_per_hour": 8.51,
+            "expected_lifetime": 3,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 84,
+            "user_id": 2,
+            "expected_power_per_hour": 3.57,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 85,
+            "user_id": 2,
+            "expected_power_per_hour": 7.7,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 86,
+            "user_id": 2,
+            "expected_power_per_hour": 4.24,
+            "expected_lifetime": 4,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 87,
+            "user_id": 1,
+            "expected_power_per_hour": 5.99,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Dublin"
+        }
+    ],
+    "2025-05-12T10:00:00.000Z": [
+        {
+            "job_id": 88,
+            "user_id": 1,
+            "expected_power_per_hour": 4.86,
+            "expected_lifetime": 4,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 89,
+            "user_id": 2,
+            "expected_power_per_hour": 1.96,
+            "expected_lifetime": 3,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 90,
+            "user_id": 1,
+            "expected_power_per_hour": 5.69,
+            "expected_lifetime": 2,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 91,
+            "user_id": 2,
+            "expected_power_per_hour": 6.67,
+            "expected_lifetime": 4,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 92,
+            "user_id": 1,
+            "expected_power_per_hour": 5.71,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 93,
+            "user_id": 0,
+            "expected_power_per_hour": 4.66,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 94,
+            "user_id": 1,
+            "expected_power_per_hour": 5.09,
+            "expected_lifetime": 1,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 95,
+            "user_id": 0,
+            "expected_power_per_hour": 1.34,
+            "expected_lifetime": 4,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 96,
+            "user_id": 0,
+            "expected_power_per_hour": 6.99,
+            "expected_lifetime": 3,
+            "request_source": "azure_Northlake"
+        }
+    ],
+    "2025-05-12T11:00:00.000Z": [
+        {
+            "job_id": 97,
+            "user_id": 0,
+            "expected_power_per_hour": 2.27,
+            "expected_lifetime": 3,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 98,
+            "user_id": 2,
+            "expected_power_per_hour": 4.98,
+            "expected_lifetime": 4,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 99,
+            "user_id": 0,
+            "expected_power_per_hour": 3.84,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 100,
+            "user_id": 2,
+            "expected_power_per_hour": 6.55,
+            "expected_lifetime": 4,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 101,
+            "user_id": 2,
+            "expected_power_per_hour": 2.68,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 102,
+            "user_id": 0,
+            "expected_power_per_hour": 8.43,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 103,
+            "user_id": 1,
+            "expected_power_per_hour": 1.54,
+            "expected_lifetime": 2,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 104,
+            "user_id": 2,
+            "expected_power_per_hour": 0.54,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 105,
+            "user_id": 0,
+            "expected_power_per_hour": 7.63,
+            "expected_lifetime": 1,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 106,
+            "user_id": 1,
+            "expected_power_per_hour": 5.36,
+            "expected_lifetime": 3,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 107,
+            "user_id": 1,
+            "expected_power_per_hour": 7.38,
+            "expected_lifetime": 4,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 108,
+            "user_id": 2,
+            "expected_power_per_hour": 7.76,
+            "expected_lifetime": 1,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 109,
+            "user_id": 2,
+            "expected_power_per_hour": 1.17,
+            "expected_lifetime": 3,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 110,
+            "user_id": 1,
+            "expected_power_per_hour": 2.89,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 111,
+            "user_id": 2,
+            "expected_power_per_hour": 9.82,
+            "expected_lifetime": 2,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 112,
+            "user_id": 1,
+            "expected_power_per_hour": 5.08,
+            "expected_lifetime": 2,
+            "request_source": "aws_Dublin"
+        }
+    ],
+    "2025-05-12T12:00:00.000Z": [
+        {
+            "job_id": 113,
+            "user_id": 1,
+            "expected_power_per_hour": 6.82,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 114,
+            "user_id": 1,
+            "expected_power_per_hour": 4.07,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 115,
+            "user_id": 1,
+            "expected_power_per_hour": 1.24,
+            "expected_lifetime": 3,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 116,
+            "user_id": 2,
+            "expected_power_per_hour": 5.7,
+            "expected_lifetime": 2,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 117,
+            "user_id": 2,
+            "expected_power_per_hour": 3.21,
+            "expected_lifetime": 4,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 118,
+            "user_id": 0,
+            "expected_power_per_hour": 5.82,
+            "expected_lifetime": 4,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 119,
+            "user_id": 2,
+            "expected_power_per_hour": 1.18,
+            "expected_lifetime": 2,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 120,
+            "user_id": 2,
+            "expected_power_per_hour": 7.53,
+            "expected_lifetime": 2,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 121,
+            "user_id": 0,
+            "expected_power_per_hour": 7.71,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Jackson County"
+        }
+    ],
+    "2025-05-12T13:00:00.000Z": [
+        {
+            "job_id": 122,
+            "user_id": 0,
+            "expected_power_per_hour": 4.64,
+            "expected_lifetime": 2,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 123,
+            "user_id": 2,
+            "expected_power_per_hour": 9.14,
+            "expected_lifetime": 4,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 124,
+            "user_id": 1,
+            "expected_power_per_hour": 6.59,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 125,
+            "user_id": 2,
+            "expected_power_per_hour": 4.14,
+            "expected_lifetime": 1,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 126,
+            "user_id": 2,
+            "expected_power_per_hour": 7.04,
+            "expected_lifetime": 4,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 127,
+            "user_id": 1,
+            "expected_power_per_hour": 6.14,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 128,
+            "user_id": 2,
+            "expected_power_per_hour": 7.13,
+            "expected_lifetime": 2,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 129,
+            "user_id": 0,
+            "expected_power_per_hour": 2.73,
+            "expected_lifetime": 4,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 130,
+            "user_id": 0,
+            "expected_power_per_hour": 5.98,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 131,
+            "user_id": 2,
+            "expected_power_per_hour": 6.78,
+            "expected_lifetime": 2,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 132,
+            "user_id": 0,
+            "expected_power_per_hour": 9.56,
+            "expected_lifetime": 4,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 133,
+            "user_id": 2,
+            "expected_power_per_hour": 3.84,
+            "expected_lifetime": 2,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 134,
+            "user_id": 1,
+            "expected_power_per_hour": 5.56,
+            "expected_lifetime": 4,
+            "request_source": "azure_San Antonio"
+        }
+    ],
+    "2025-05-12T14:00:00.000Z": [
+        {
+            "job_id": 135,
+            "user_id": 1,
+            "expected_power_per_hour": 5.4,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 136,
+            "user_id": 2,
+            "expected_power_per_hour": 8.67,
+            "expected_lifetime": 1,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 137,
+            "user_id": 1,
+            "expected_power_per_hour": 3.23,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 138,
+            "user_id": 2,
+            "expected_power_per_hour": 6.31,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Midlothian"
+        }
+    ],
+    "2025-05-12T15:00:00.000Z": [
+        {
+            "job_id": 139,
+            "user_id": 0,
+            "expected_power_per_hour": 9.79,
+            "expected_lifetime": 4,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 140,
+            "user_id": 0,
+            "expected_power_per_hour": 6.62,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 141,
+            "user_id": 2,
+            "expected_power_per_hour": 6.78,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 142,
+            "user_id": 2,
+            "expected_power_per_hour": 3.91,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 143,
+            "user_id": 0,
+            "expected_power_per_hour": 3.8,
+            "expected_lifetime": 3,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 144,
+            "user_id": 2,
+            "expected_power_per_hour": 6.9,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 145,
+            "user_id": 0,
+            "expected_power_per_hour": 5.51,
+            "expected_lifetime": 3,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 146,
+            "user_id": 0,
+            "expected_power_per_hour": 6.34,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 147,
+            "user_id": 2,
+            "expected_power_per_hour": 2.83,
+            "expected_lifetime": 1,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 148,
+            "user_id": 0,
+            "expected_power_per_hour": 3.21,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 149,
+            "user_id": 2,
+            "expected_power_per_hour": 0.53,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 150,
+            "user_id": 1,
+            "expected_power_per_hour": 4.15,
+            "expected_lifetime": 3,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 151,
+            "user_id": 0,
+            "expected_power_per_hour": 3.82,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Midlothian"
+        }
+    ],
+    "2025-05-12T16:00:00.000Z": [
+        {
+            "job_id": 152,
+            "user_id": 1,
+            "expected_power_per_hour": 4.21,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 153,
+            "user_id": 0,
+            "expected_power_per_hour": 4.74,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 154,
+            "user_id": 0,
+            "expected_power_per_hour": 6.99,
+            "expected_lifetime": 2,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 155,
+            "user_id": 1,
+            "expected_power_per_hour": 2.29,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 156,
+            "user_id": 2,
+            "expected_power_per_hour": 6.57,
+            "expected_lifetime": 3,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 157,
+            "user_id": 1,
+            "expected_power_per_hour": 4.03,
+            "expected_lifetime": 4,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 158,
+            "user_id": 2,
+            "expected_power_per_hour": 2.94,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 159,
+            "user_id": 0,
+            "expected_power_per_hour": 4.81,
+            "expected_lifetime": 2,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 160,
+            "user_id": 0,
+            "expected_power_per_hour": 4.66,
+            "expected_lifetime": 3,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 161,
+            "user_id": 2,
+            "expected_power_per_hour": 1.7,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Douglas County"
+        }
+    ],
+    "2025-05-12T17:00:00.000Z": [
+        {
+            "job_id": 162,
+            "user_id": 1,
+            "expected_power_per_hour": 2.93,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 163,
+            "user_id": 1,
+            "expected_power_per_hour": 7.78,
+            "expected_lifetime": 3,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 164,
+            "user_id": 1,
+            "expected_power_per_hour": 7.56,
+            "expected_lifetime": 4,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 165,
+            "user_id": 1,
+            "expected_power_per_hour": 7.58,
+            "expected_lifetime": 1,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 166,
+            "user_id": 1,
+            "expected_power_per_hour": 6.67,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 167,
+            "user_id": 0,
+            "expected_power_per_hour": 4.47,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 168,
+            "user_id": 1,
+            "expected_power_per_hour": 8.09,
+            "expected_lifetime": 3,
+            "request_source": "azure_Dublin"
+        }
+    ],
+    "2025-05-12T18:00:00.000Z": [
+        {
+            "job_id": 169,
+            "user_id": 0,
+            "expected_power_per_hour": 9.55,
+            "expected_lifetime": 2,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 170,
+            "user_id": 2,
+            "expected_power_per_hour": 8.25,
+            "expected_lifetime": 2,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 171,
+            "user_id": 1,
+            "expected_power_per_hour": 5.25,
+            "expected_lifetime": 3,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 172,
+            "user_id": 0,
+            "expected_power_per_hour": 7.92,
+            "expected_lifetime": 1,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 173,
+            "user_id": 0,
+            "expected_power_per_hour": 7.95,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 174,
+            "user_id": 1,
+            "expected_power_per_hour": 3.7,
+            "expected_lifetime": 3,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 175,
+            "user_id": 0,
+            "expected_power_per_hour": 6.75,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Midlothian"
+        }
+    ],
+    "2025-05-12T19:00:00.000Z": [
+        {
+            "job_id": 176,
+            "user_id": 0,
+            "expected_power_per_hour": 1.92,
+            "expected_lifetime": 4,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 177,
+            "user_id": 1,
+            "expected_power_per_hour": 4.89,
+            "expected_lifetime": 4,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 178,
+            "user_id": 2,
+            "expected_power_per_hour": 7.36,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 179,
+            "user_id": 2,
+            "expected_power_per_hour": 8.63,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 180,
+            "user_id": 2,
+            "expected_power_per_hour": 7.24,
+            "expected_lifetime": 3,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 181,
+            "user_id": 0,
+            "expected_power_per_hour": 5.35,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 182,
+            "user_id": 2,
+            "expected_power_per_hour": 9.89,
+            "expected_lifetime": 3,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 183,
+            "user_id": 0,
+            "expected_power_per_hour": 1.17,
+            "expected_lifetime": 3,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 184,
+            "user_id": 1,
+            "expected_power_per_hour": 7.2,
+            "expected_lifetime": 3,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 185,
+            "user_id": 1,
+            "expected_power_per_hour": 0.8,
+            "expected_lifetime": 3,
+            "request_source": "aws_Stockholm"
+        }
+    ],
+    "2025-05-12T20:00:00.000Z": [
+        {
+            "job_id": 186,
+            "user_id": 0,
+            "expected_power_per_hour": 6.44,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 187,
+            "user_id": 2,
+            "expected_power_per_hour": 1.62,
+            "expected_lifetime": 3,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 188,
+            "user_id": 0,
+            "expected_power_per_hour": 2.67,
+            "expected_lifetime": 2,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 189,
+            "user_id": 1,
+            "expected_power_per_hour": 6.35,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 190,
+            "user_id": 1,
+            "expected_power_per_hour": 8.35,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 191,
+            "user_id": 0,
+            "expected_power_per_hour": 1.29,
+            "expected_lifetime": 2,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 192,
+            "user_id": 0,
+            "expected_power_per_hour": 3.0,
+            "expected_lifetime": 3,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 193,
+            "user_id": 1,
+            "expected_power_per_hour": 7.06,
+            "expected_lifetime": 3,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 194,
+            "user_id": 0,
+            "expected_power_per_hour": 9.11,
+            "expected_lifetime": 1,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 195,
+            "user_id": 2,
+            "expected_power_per_hour": 6.77,
+            "expected_lifetime": 2,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 196,
+            "user_id": 2,
+            "expected_power_per_hour": 5.86,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 197,
+            "user_id": 1,
+            "expected_power_per_hour": 5.4,
+            "expected_lifetime": 2,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 198,
+            "user_id": 1,
+            "expected_power_per_hour": 7.59,
+            "expected_lifetime": 1,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 199,
+            "user_id": 0,
+            "expected_power_per_hour": 5.03,
+            "expected_lifetime": 2,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 200,
+            "user_id": 0,
+            "expected_power_per_hour": 8.88,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 201,
+            "user_id": 2,
+            "expected_power_per_hour": 3.37,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Jackson County"
+        }
+    ],
+    "2025-05-12T21:00:00.000Z": [
+        {
+            "job_id": 202,
+            "user_id": 1,
+            "expected_power_per_hour": 5.15,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 203,
+            "user_id": 0,
+            "expected_power_per_hour": 3.48,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 204,
+            "user_id": 1,
+            "expected_power_per_hour": 6.2,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 205,
+            "user_id": 2,
+            "expected_power_per_hour": 1.28,
+            "expected_lifetime": 4,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 206,
+            "user_id": 2,
+            "expected_power_per_hour": 1.34,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 207,
+            "user_id": 0,
+            "expected_power_per_hour": 4.86,
+            "expected_lifetime": 1,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 208,
+            "user_id": 0,
+            "expected_power_per_hour": 6.33,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 209,
+            "user_id": 1,
+            "expected_power_per_hour": 3.12,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 210,
+            "user_id": 0,
+            "expected_power_per_hour": 9.75,
+            "expected_lifetime": 3,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 211,
+            "user_id": 1,
+            "expected_power_per_hour": 5.66,
+            "expected_lifetime": 2,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 212,
+            "user_id": 1,
+            "expected_power_per_hour": 8.48,
+            "expected_lifetime": 1,
+            "request_source": "aws_Dublin"
+        }
+    ],
+    "2025-05-12T22:00:00.000Z": [
+        {
+            "job_id": 213,
+            "user_id": 0,
+            "expected_power_per_hour": 9.81,
+            "expected_lifetime": 1,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 214,
+            "user_id": 0,
+            "expected_power_per_hour": 5.43,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 215,
+            "user_id": 1,
+            "expected_power_per_hour": 8.42,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 216,
+            "user_id": 0,
+            "expected_power_per_hour": 9.77,
+            "expected_lifetime": 4,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 217,
+            "user_id": 0,
+            "expected_power_per_hour": 2.5,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 218,
+            "user_id": 2,
+            "expected_power_per_hour": 2.17,
+            "expected_lifetime": 4,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 219,
+            "user_id": 0,
+            "expected_power_per_hour": 9.97,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 220,
+            "user_id": 0,
+            "expected_power_per_hour": 1.69,
+            "expected_lifetime": 4,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 221,
+            "user_id": 0,
+            "expected_power_per_hour": 3.44,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 222,
+            "user_id": 2,
+            "expected_power_per_hour": 2.74,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Lenoir"
+        }
+    ],
+    "2025-05-12T23:00:00.000Z": [
+        {
+            "job_id": 223,
+            "user_id": 0,
+            "expected_power_per_hour": 9.07,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 224,
+            "user_id": 2,
+            "expected_power_per_hour": 9.48,
+            "expected_lifetime": 1,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 225,
+            "user_id": 2,
+            "expected_power_per_hour": 5.21,
+            "expected_lifetime": 3,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 226,
+            "user_id": 1,
+            "expected_power_per_hour": 8.45,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 227,
+            "user_id": 0,
+            "expected_power_per_hour": 1.63,
+            "expected_lifetime": 1,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 228,
+            "user_id": 1,
+            "expected_power_per_hour": 8.32,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 229,
+            "user_id": 2,
+            "expected_power_per_hour": 2.87,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 230,
+            "user_id": 2,
+            "expected_power_per_hour": 0.65,
+            "expected_lifetime": 4,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 231,
+            "user_id": 2,
+            "expected_power_per_hour": 8.49,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Midlothian"
+        }
+    ],
+    "2025-05-13T00:00:00.000Z": [
+        {
+            "job_id": 232,
+            "user_id": 1,
+            "expected_power_per_hour": 3.85,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 233,
+            "user_id": 0,
+            "expected_power_per_hour": 2.0,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 234,
+            "user_id": 2,
+            "expected_power_per_hour": 1.81,
+            "expected_lifetime": 4,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 235,
+            "user_id": 0,
+            "expected_power_per_hour": 0.91,
+            "expected_lifetime": 3,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 236,
+            "user_id": 1,
+            "expected_power_per_hour": 3.65,
+            "expected_lifetime": 2,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 237,
+            "user_id": 0,
+            "expected_power_per_hour": 5.32,
+            "expected_lifetime": 4,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 238,
+            "user_id": 0,
+            "expected_power_per_hour": 2.47,
+            "expected_lifetime": 1,
+            "request_source": "aws_Columbus"
+        }
+    ],
+    "2025-05-13T01:00:00.000Z": [
+        {
+            "job_id": 239,
+            "user_id": 2,
+            "expected_power_per_hour": 3.84,
+            "expected_lifetime": 1,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 240,
+            "user_id": 0,
+            "expected_power_per_hour": 5.97,
+            "expected_lifetime": 3,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 241,
+            "user_id": 1,
+            "expected_power_per_hour": 8.58,
+            "expected_lifetime": 1,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 242,
+            "user_id": 2,
+            "expected_power_per_hour": 9.33,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 243,
+            "user_id": 0,
+            "expected_power_per_hour": 8.39,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 244,
+            "user_id": 2,
+            "expected_power_per_hour": 5.77,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 245,
+            "user_id": 0,
+            "expected_power_per_hour": 2.35,
+            "expected_lifetime": 2,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 246,
+            "user_id": 2,
+            "expected_power_per_hour": 9.5,
+            "expected_lifetime": 2,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 247,
+            "user_id": 2,
+            "expected_power_per_hour": 2.76,
+            "expected_lifetime": 1,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 248,
+            "user_id": 1,
+            "expected_power_per_hour": 4.37,
+            "expected_lifetime": 4,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 249,
+            "user_id": 0,
+            "expected_power_per_hour": 6.78,
+            "expected_lifetime": 4,
+            "request_source": "aws_Stockholm"
+        }
+    ],
+    "2025-05-13T02:00:00.000Z": [
+        {
+            "job_id": 250,
+            "user_id": 1,
+            "expected_power_per_hour": 6.17,
+            "expected_lifetime": 4,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 251,
+            "user_id": 0,
+            "expected_power_per_hour": 9.39,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 252,
+            "user_id": 0,
+            "expected_power_per_hour": 2.36,
+            "expected_lifetime": 2,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 253,
+            "user_id": 1,
+            "expected_power_per_hour": 5.46,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 254,
+            "user_id": 0,
+            "expected_power_per_hour": 1.44,
+            "expected_lifetime": 4,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 255,
+            "user_id": 1,
+            "expected_power_per_hour": 8.76,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 256,
+            "user_id": 2,
+            "expected_power_per_hour": 8.58,
+            "expected_lifetime": 4,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 257,
+            "user_id": 1,
+            "expected_power_per_hour": 4.86,
+            "expected_lifetime": 2,
+            "request_source": "aws_Santa Clara"
+        }
+    ],
+    "2025-05-13T03:00:00.000Z": [
+        {
+            "job_id": 258,
+            "user_id": 1,
+            "expected_power_per_hour": 1.14,
+            "expected_lifetime": 3,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 259,
+            "user_id": 0,
+            "expected_power_per_hour": 3.88,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 260,
+            "user_id": 1,
+            "expected_power_per_hour": 1.82,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 261,
+            "user_id": 2,
+            "expected_power_per_hour": 3.58,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 262,
+            "user_id": 2,
+            "expected_power_per_hour": 2.14,
+            "expected_lifetime": 3,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 263,
+            "user_id": 0,
+            "expected_power_per_hour": 5.89,
+            "expected_lifetime": 2,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 264,
+            "user_id": 0,
+            "expected_power_per_hour": 4.32,
+            "expected_lifetime": 4,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 265,
+            "user_id": 2,
+            "expected_power_per_hour": 3.51,
+            "expected_lifetime": 2,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 266,
+            "user_id": 0,
+            "expected_power_per_hour": 1.77,
+            "expected_lifetime": 3,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 267,
+            "user_id": 2,
+            "expected_power_per_hour": 2.19,
+            "expected_lifetime": 4,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 268,
+            "user_id": 2,
+            "expected_power_per_hour": 3.25,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 269,
+            "user_id": 1,
+            "expected_power_per_hour": 4.69,
+            "expected_lifetime": 1,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 270,
+            "user_id": 0,
+            "expected_power_per_hour": 8.37,
+            "expected_lifetime": 1,
+            "request_source": "azure_Des Moines"
+        }
+    ],
+    "2025-05-13T04:00:00.000Z": [
+        {
+            "job_id": 271,
+            "user_id": 1,
+            "expected_power_per_hour": 0.92,
+            "expected_lifetime": 4,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 272,
+            "user_id": 2,
+            "expected_power_per_hour": 3.44,
+            "expected_lifetime": 3,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 273,
+            "user_id": 2,
+            "expected_power_per_hour": 0.84,
+            "expected_lifetime": 2,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 274,
+            "user_id": 1,
+            "expected_power_per_hour": 1.41,
+            "expected_lifetime": 4,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 275,
+            "user_id": 2,
+            "expected_power_per_hour": 4.93,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 276,
+            "user_id": 1,
+            "expected_power_per_hour": 5.84,
+            "expected_lifetime": 3,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 277,
+            "user_id": 1,
+            "expected_power_per_hour": 1.42,
+            "expected_lifetime": 2,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 278,
+            "user_id": 2,
+            "expected_power_per_hour": 0.5,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 279,
+            "user_id": 0,
+            "expected_power_per_hour": 9.65,
+            "expected_lifetime": 4,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 280,
+            "user_id": 1,
+            "expected_power_per_hour": 3.36,
+            "expected_lifetime": 4,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 281,
+            "user_id": 1,
+            "expected_power_per_hour": 8.86,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 282,
+            "user_id": 1,
+            "expected_power_per_hour": 3.05,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Lenoir"
+        }
+    ],
+    "2025-05-13T05:00:00.000Z": [
+        {
+            "job_id": 283,
+            "user_id": 2,
+            "expected_power_per_hour": 9.87,
+            "expected_lifetime": 2,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 284,
+            "user_id": 1,
+            "expected_power_per_hour": 2.27,
+            "expected_lifetime": 1,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 285,
+            "user_id": 2,
+            "expected_power_per_hour": 9.62,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 286,
+            "user_id": 0,
+            "expected_power_per_hour": 5.63,
+            "expected_lifetime": 2,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 287,
+            "user_id": 1,
+            "expected_power_per_hour": 1.45,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 288,
+            "user_id": 2,
+            "expected_power_per_hour": 1.67,
+            "expected_lifetime": 4,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 289,
+            "user_id": 0,
+            "expected_power_per_hour": 4.02,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 290,
+            "user_id": 0,
+            "expected_power_per_hour": 4.22,
+            "expected_lifetime": 4,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 291,
+            "user_id": 1,
+            "expected_power_per_hour": 2.74,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 292,
+            "user_id": 2,
+            "expected_power_per_hour": 8.11,
+            "expected_lifetime": 2,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 293,
+            "user_id": 0,
+            "expected_power_per_hour": 6.19,
+            "expected_lifetime": 2,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 294,
+            "user_id": 2,
+            "expected_power_per_hour": 5.47,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 295,
+            "user_id": 2,
+            "expected_power_per_hour": 7.81,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 296,
+            "user_id": 2,
+            "expected_power_per_hour": 8.78,
+            "expected_lifetime": 1,
+            "request_source": "azure_Dublin"
+        }
+    ],
+    "2025-05-13T06:00:00.000Z": [
+        {
+            "job_id": 297,
+            "user_id": 1,
+            "expected_power_per_hour": 5.05,
+            "expected_lifetime": 1,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 298,
+            "user_id": 0,
+            "expected_power_per_hour": 8.41,
+            "expected_lifetime": 2,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 299,
+            "user_id": 2,
+            "expected_power_per_hour": 4.02,
+            "expected_lifetime": 1,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 300,
+            "user_id": 1,
+            "expected_power_per_hour": 8.59,
+            "expected_lifetime": 3,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 301,
+            "user_id": 2,
+            "expected_power_per_hour": 9.77,
+            "expected_lifetime": 2,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 302,
+            "user_id": 0,
+            "expected_power_per_hour": 9.49,
+            "expected_lifetime": 2,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 303,
+            "user_id": 2,
+            "expected_power_per_hour": 4.49,
+            "expected_lifetime": 1,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 304,
+            "user_id": 2,
+            "expected_power_per_hour": 1.73,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Midlothian"
+        }
+    ],
+    "2025-05-13T07:00:00.000Z": [
+        {
+            "job_id": 305,
+            "user_id": 1,
+            "expected_power_per_hour": 6.64,
+            "expected_lifetime": 2,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 306,
+            "user_id": 2,
+            "expected_power_per_hour": 0.7,
+            "expected_lifetime": 4,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 307,
+            "user_id": 1,
+            "expected_power_per_hour": 2.69,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 308,
+            "user_id": 2,
+            "expected_power_per_hour": 9.11,
+            "expected_lifetime": 4,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 309,
+            "user_id": 1,
+            "expected_power_per_hour": 4.48,
+            "expected_lifetime": 4,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 310,
+            "user_id": 0,
+            "expected_power_per_hour": 0.93,
+            "expected_lifetime": 3,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 311,
+            "user_id": 1,
+            "expected_power_per_hour": 8.8,
+            "expected_lifetime": 3,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 312,
+            "user_id": 0,
+            "expected_power_per_hour": 7.83,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 313,
+            "user_id": 0,
+            "expected_power_per_hour": 0.58,
+            "expected_lifetime": 3,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 314,
+            "user_id": 1,
+            "expected_power_per_hour": 4.73,
+            "expected_lifetime": 1,
+            "request_source": "azure_Northlake"
+        }
+    ],
+    "2025-05-13T08:00:00.000Z": [
+        {
+            "job_id": 315,
+            "user_id": 1,
+            "expected_power_per_hour": 3.11,
+            "expected_lifetime": 1,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 316,
+            "user_id": 2,
+            "expected_power_per_hour": 6.47,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 317,
+            "user_id": 2,
+            "expected_power_per_hour": 8.45,
+            "expected_lifetime": 2,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 318,
+            "user_id": 1,
+            "expected_power_per_hour": 6.68,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 319,
+            "user_id": 1,
+            "expected_power_per_hour": 7.11,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 320,
+            "user_id": 1,
+            "expected_power_per_hour": 6.4,
+            "expected_lifetime": 2,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 321,
+            "user_id": 1,
+            "expected_power_per_hour": 4.67,
+            "expected_lifetime": 3,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 322,
+            "user_id": 1,
+            "expected_power_per_hour": 9.05,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 323,
+            "user_id": 2,
+            "expected_power_per_hour": 7.91,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 324,
+            "user_id": 1,
+            "expected_power_per_hour": 8.18,
+            "expected_lifetime": 1,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 325,
+            "user_id": 1,
+            "expected_power_per_hour": 3.08,
+            "expected_lifetime": 3,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 326,
+            "user_id": 2,
+            "expected_power_per_hour": 1.72,
+            "expected_lifetime": 1,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 327,
+            "user_id": 0,
+            "expected_power_per_hour": 8.29,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Dublin"
+        }
+    ],
+    "2025-05-13T09:00:00.000Z": [
+        {
+            "job_id": 328,
+            "user_id": 2,
+            "expected_power_per_hour": 7.12,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 329,
+            "user_id": 0,
+            "expected_power_per_hour": 8.81,
+            "expected_lifetime": 2,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 330,
+            "user_id": 1,
+            "expected_power_per_hour": 8.5,
+            "expected_lifetime": 4,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 331,
+            "user_id": 1,
+            "expected_power_per_hour": 2.22,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 332,
+            "user_id": 2,
+            "expected_power_per_hour": 3.97,
+            "expected_lifetime": 1,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 333,
+            "user_id": 2,
+            "expected_power_per_hour": 2.34,
+            "expected_lifetime": 3,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 334,
+            "user_id": 2,
+            "expected_power_per_hour": 9.75,
+            "expected_lifetime": 1,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 335,
+            "user_id": 2,
+            "expected_power_per_hour": 1.93,
+            "expected_lifetime": 1,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 336,
+            "user_id": 0,
+            "expected_power_per_hour": 1.0,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 337,
+            "user_id": 1,
+            "expected_power_per_hour": 9.22,
+            "expected_lifetime": 3,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 338,
+            "user_id": 0,
+            "expected_power_per_hour": 5.8,
+            "expected_lifetime": 3,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 339,
+            "user_id": 2,
+            "expected_power_per_hour": 6.18,
+            "expected_lifetime": 2,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 340,
+            "user_id": 0,
+            "expected_power_per_hour": 0.57,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 341,
+            "user_id": 2,
+            "expected_power_per_hour": 3.63,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 342,
+            "user_id": 2,
+            "expected_power_per_hour": 0.84,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 343,
+            "user_id": 0,
+            "expected_power_per_hour": 8.84,
+            "expected_lifetime": 1,
+            "request_source": "azure_Northlake"
+        }
+    ],
+    "2025-05-13T10:00:00.000Z": [
+        {
+            "job_id": 344,
+            "user_id": 1,
+            "expected_power_per_hour": 6.6,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 345,
+            "user_id": 2,
+            "expected_power_per_hour": 3.15,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 346,
+            "user_id": 2,
+            "expected_power_per_hour": 5.3,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 347,
+            "user_id": 2,
+            "expected_power_per_hour": 6.46,
+            "expected_lifetime": 3,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 348,
+            "user_id": 0,
+            "expected_power_per_hour": 9.55,
+            "expected_lifetime": 2,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 349,
+            "user_id": 0,
+            "expected_power_per_hour": 1.93,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Midlothian"
+        }
+    ],
+    "2025-05-13T11:00:00.000Z": [
+        {
+            "job_id": 350,
+            "user_id": 2,
+            "expected_power_per_hour": 7.81,
+            "expected_lifetime": 4,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 351,
+            "user_id": 0,
+            "expected_power_per_hour": 2.33,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 352,
+            "user_id": 2,
+            "expected_power_per_hour": 9.63,
+            "expected_lifetime": 2,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 353,
+            "user_id": 0,
+            "expected_power_per_hour": 9.64,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 354,
+            "user_id": 1,
+            "expected_power_per_hour": 4.28,
+            "expected_lifetime": 1,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 355,
+            "user_id": 0,
+            "expected_power_per_hour": 1.87,
+            "expected_lifetime": 3,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 356,
+            "user_id": 1,
+            "expected_power_per_hour": 8.86,
+            "expected_lifetime": 3,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 357,
+            "user_id": 1,
+            "expected_power_per_hour": 9.4,
+            "expected_lifetime": 2,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 358,
+            "user_id": 0,
+            "expected_power_per_hour": 6.08,
+            "expected_lifetime": 1,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 359,
+            "user_id": 1,
+            "expected_power_per_hour": 9.01,
+            "expected_lifetime": 4,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 360,
+            "user_id": 0,
+            "expected_power_per_hour": 7.49,
+            "expected_lifetime": 4,
+            "request_source": "gcp_New Albany"
+        }
+    ],
+    "2025-05-13T12:00:00.000Z": [
+        {
+            "job_id": 361,
+            "user_id": 0,
+            "expected_power_per_hour": 1.52,
+            "expected_lifetime": 3,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 362,
+            "user_id": 1,
+            "expected_power_per_hour": 0.86,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 363,
+            "user_id": 2,
+            "expected_power_per_hour": 6.58,
+            "expected_lifetime": 2,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 364,
+            "user_id": 1,
+            "expected_power_per_hour": 0.51,
+            "expected_lifetime": 4,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 365,
+            "user_id": 0,
+            "expected_power_per_hour": 7.16,
+            "expected_lifetime": 4,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 366,
+            "user_id": 1,
+            "expected_power_per_hour": 4.27,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 367,
+            "user_id": 0,
+            "expected_power_per_hour": 6.56,
+            "expected_lifetime": 4,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 368,
+            "user_id": 1,
+            "expected_power_per_hour": 4.28,
+            "expected_lifetime": 4,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 369,
+            "user_id": 0,
+            "expected_power_per_hour": 7.87,
+            "expected_lifetime": 1,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 370,
+            "user_id": 1,
+            "expected_power_per_hour": 4.53,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 371,
+            "user_id": 0,
+            "expected_power_per_hour": 1.5,
+            "expected_lifetime": 3,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 372,
+            "user_id": 2,
+            "expected_power_per_hour": 2.6,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 373,
+            "user_id": 2,
+            "expected_power_per_hour": 0.52,
+            "expected_lifetime": 1,
+            "request_source": "azure_Des Moines"
+        }
+    ],
+    "2025-05-13T13:00:00.000Z": [
+        {
+            "job_id": 374,
+            "user_id": 1,
+            "expected_power_per_hour": 2.52,
+            "expected_lifetime": 1,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 375,
+            "user_id": 1,
+            "expected_power_per_hour": 3.45,
+            "expected_lifetime": 3,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 376,
+            "user_id": 1,
+            "expected_power_per_hour": 3.84,
+            "expected_lifetime": 1,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 377,
+            "user_id": 2,
+            "expected_power_per_hour": 4.36,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 378,
+            "user_id": 2,
+            "expected_power_per_hour": 0.76,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 379,
+            "user_id": 2,
+            "expected_power_per_hour": 1.29,
+            "expected_lifetime": 3,
+            "request_source": "aws_Santa Clara"
+        }
+    ],
+    "2025-05-13T14:00:00.000Z": [
+        {
+            "job_id": 380,
+            "user_id": 0,
+            "expected_power_per_hour": 2.14,
+            "expected_lifetime": 4,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 381,
+            "user_id": 0,
+            "expected_power_per_hour": 8.59,
+            "expected_lifetime": 3,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 382,
+            "user_id": 2,
+            "expected_power_per_hour": 1.6,
+            "expected_lifetime": 1,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 383,
+            "user_id": 2,
+            "expected_power_per_hour": 9.0,
+            "expected_lifetime": 1,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 384,
+            "user_id": 2,
+            "expected_power_per_hour": 7.08,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 385,
+            "user_id": 0,
+            "expected_power_per_hour": 4.16,
+            "expected_lifetime": 3,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 386,
+            "user_id": 1,
+            "expected_power_per_hour": 3.9,
+            "expected_lifetime": 4,
+            "request_source": "gcp_New Albany"
+        }
+    ],
+    "2025-05-13T15:00:00.000Z": [
+        {
+            "job_id": 387,
+            "user_id": 0,
+            "expected_power_per_hour": 2.35,
+            "expected_lifetime": 3,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 388,
+            "user_id": 0,
+            "expected_power_per_hour": 3.3,
+            "expected_lifetime": 2,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 389,
+            "user_id": 1,
+            "expected_power_per_hour": 2.34,
+            "expected_lifetime": 3,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 390,
+            "user_id": 1,
+            "expected_power_per_hour": 5.28,
+            "expected_lifetime": 1,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 391,
+            "user_id": 1,
+            "expected_power_per_hour": 6.05,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Fredericia"
+        }
+    ],
+    "2025-05-13T16:00:00.000Z": [
+        {
+            "job_id": 392,
+            "user_id": 0,
+            "expected_power_per_hour": 3.38,
+            "expected_lifetime": 3,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 393,
+            "user_id": 0,
+            "expected_power_per_hour": 3.72,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 394,
+            "user_id": 2,
+            "expected_power_per_hour": 3.71,
+            "expected_lifetime": 1,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 395,
+            "user_id": 1,
+            "expected_power_per_hour": 7.81,
+            "expected_lifetime": 1,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 396,
+            "user_id": 2,
+            "expected_power_per_hour": 7.76,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 397,
+            "user_id": 1,
+            "expected_power_per_hour": 2.89,
+            "expected_lifetime": 4,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 398,
+            "user_id": 1,
+            "expected_power_per_hour": 9.45,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 399,
+            "user_id": 0,
+            "expected_power_per_hour": 4.74,
+            "expected_lifetime": 4,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 400,
+            "user_id": 2,
+            "expected_power_per_hour": 0.8,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 401,
+            "user_id": 0,
+            "expected_power_per_hour": 4.66,
+            "expected_lifetime": 2,
+            "request_source": "aws_Sydney"
+        }
+    ],
+    "2025-05-13T17:00:00.000Z": [
+        {
+            "job_id": 402,
+            "user_id": 1,
+            "expected_power_per_hour": 6.14,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 403,
+            "user_id": 1,
+            "expected_power_per_hour": 8.25,
+            "expected_lifetime": 3,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 404,
+            "user_id": 2,
+            "expected_power_per_hour": 7.42,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 405,
+            "user_id": 1,
+            "expected_power_per_hour": 5.33,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 406,
+            "user_id": 0,
+            "expected_power_per_hour": 5.97,
+            "expected_lifetime": 2,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 407,
+            "user_id": 0,
+            "expected_power_per_hour": 5.79,
+            "expected_lifetime": 3,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 408,
+            "user_id": 0,
+            "expected_power_per_hour": 4.31,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Dublin"
+        }
+    ],
+    "2025-05-13T18:00:00.000Z": [
+        {
+            "job_id": 409,
+            "user_id": 2,
+            "expected_power_per_hour": 1.37,
+            "expected_lifetime": 4,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 410,
+            "user_id": 2,
+            "expected_power_per_hour": 4.48,
+            "expected_lifetime": 3,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 411,
+            "user_id": 1,
+            "expected_power_per_hour": 4.93,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 412,
+            "user_id": 2,
+            "expected_power_per_hour": 6.97,
+            "expected_lifetime": 4,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 413,
+            "user_id": 2,
+            "expected_power_per_hour": 1.27,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 414,
+            "user_id": 1,
+            "expected_power_per_hour": 5.68,
+            "expected_lifetime": 3,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 415,
+            "user_id": 1,
+            "expected_power_per_hour": 1.0,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 416,
+            "user_id": 0,
+            "expected_power_per_hour": 6.02,
+            "expected_lifetime": 1,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 417,
+            "user_id": 2,
+            "expected_power_per_hour": 4.91,
+            "expected_lifetime": 4,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 418,
+            "user_id": 0,
+            "expected_power_per_hour": 5.88,
+            "expected_lifetime": 2,
+            "request_source": "aws_Santa Clara"
+        }
+    ],
+    "2025-05-13T19:00:00.000Z": [
+        {
+            "job_id": 419,
+            "user_id": 2,
+            "expected_power_per_hour": 5.73,
+            "expected_lifetime": 4,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 420,
+            "user_id": 2,
+            "expected_power_per_hour": 7.35,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 421,
+            "user_id": 1,
+            "expected_power_per_hour": 1.17,
+            "expected_lifetime": 1,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 422,
+            "user_id": 0,
+            "expected_power_per_hour": 6.97,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 423,
+            "user_id": 0,
+            "expected_power_per_hour": 0.95,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 424,
+            "user_id": 0,
+            "expected_power_per_hour": 1.33,
+            "expected_lifetime": 4,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 425,
+            "user_id": 0,
+            "expected_power_per_hour": 4.21,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 426,
+            "user_id": 0,
+            "expected_power_per_hour": 6.73,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 427,
+            "user_id": 0,
+            "expected_power_per_hour": 9.11,
+            "expected_lifetime": 3,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 428,
+            "user_id": 0,
+            "expected_power_per_hour": 0.93,
+            "expected_lifetime": 3,
+            "request_source": "aws_Stockholm"
+        }
+    ],
+    "2025-05-13T20:00:00.000Z": [
+        {
+            "job_id": 429,
+            "user_id": 2,
+            "expected_power_per_hour": 9.88,
+            "expected_lifetime": 4,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 430,
+            "user_id": 1,
+            "expected_power_per_hour": 6.62,
+            "expected_lifetime": 3,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 431,
+            "user_id": 0,
+            "expected_power_per_hour": 2.76,
+            "expected_lifetime": 1,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 432,
+            "user_id": 0,
+            "expected_power_per_hour": 6.06,
+            "expected_lifetime": 2,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 433,
+            "user_id": 1,
+            "expected_power_per_hour": 5.0,
+            "expected_lifetime": 3,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 434,
+            "user_id": 1,
+            "expected_power_per_hour": 6.73,
+            "expected_lifetime": 1,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 435,
+            "user_id": 1,
+            "expected_power_per_hour": 3.64,
+            "expected_lifetime": 2,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 436,
+            "user_id": 1,
+            "expected_power_per_hour": 2.19,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 437,
+            "user_id": 1,
+            "expected_power_per_hour": 2.05,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 438,
+            "user_id": 1,
+            "expected_power_per_hour": 7.63,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 439,
+            "user_id": 2,
+            "expected_power_per_hour": 8.38,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 440,
+            "user_id": 1,
+            "expected_power_per_hour": 2.92,
+            "expected_lifetime": 1,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 441,
+            "user_id": 0,
+            "expected_power_per_hour": 3.03,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 442,
+            "user_id": 1,
+            "expected_power_per_hour": 6.12,
+            "expected_lifetime": 3,
+            "request_source": "gcp_New Albany"
+        }
+    ],
+    "2025-05-13T21:00:00.000Z": [
+        {
+            "job_id": 443,
+            "user_id": 0,
+            "expected_power_per_hour": 8.83,
+            "expected_lifetime": 1,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 444,
+            "user_id": 0,
+            "expected_power_per_hour": 1.12,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 445,
+            "user_id": 2,
+            "expected_power_per_hour": 7.07,
+            "expected_lifetime": 4,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 446,
+            "user_id": 1,
+            "expected_power_per_hour": 5.63,
+            "expected_lifetime": 4,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 447,
+            "user_id": 1,
+            "expected_power_per_hour": 7.13,
+            "expected_lifetime": 3,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 448,
+            "user_id": 2,
+            "expected_power_per_hour": 5.15,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 449,
+            "user_id": 0,
+            "expected_power_per_hour": 1.24,
+            "expected_lifetime": 4,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 450,
+            "user_id": 2,
+            "expected_power_per_hour": 5.45,
+            "expected_lifetime": 4,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 451,
+            "user_id": 2,
+            "expected_power_per_hour": 0.56,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 452,
+            "user_id": 2,
+            "expected_power_per_hour": 7.46,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 453,
+            "user_id": 2,
+            "expected_power_per_hour": 4.47,
+            "expected_lifetime": 4,
+            "request_source": "aws_Columbus"
+        }
+    ],
+    "2025-05-13T22:00:00.000Z": [
+        {
+            "job_id": 454,
+            "user_id": 1,
+            "expected_power_per_hour": 2.63,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 455,
+            "user_id": 1,
+            "expected_power_per_hour": 8.09,
+            "expected_lifetime": 1,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 456,
+            "user_id": 2,
+            "expected_power_per_hour": 3.31,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 457,
+            "user_id": 0,
+            "expected_power_per_hour": 1.52,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 458,
+            "user_id": 2,
+            "expected_power_per_hour": 1.17,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 459,
+            "user_id": 1,
+            "expected_power_per_hour": 6.98,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Jackson County"
+        }
+    ],
+    "2025-05-13T23:00:00.000Z": [
+        {
+            "job_id": 460,
+            "user_id": 2,
+            "expected_power_per_hour": 3.21,
+            "expected_lifetime": 3,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 461,
+            "user_id": 2,
+            "expected_power_per_hour": 8.72,
+            "expected_lifetime": 4,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 462,
+            "user_id": 2,
+            "expected_power_per_hour": 6.75,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 463,
+            "user_id": 2,
+            "expected_power_per_hour": 7.46,
+            "expected_lifetime": 3,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 464,
+            "user_id": 1,
+            "expected_power_per_hour": 5.73,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 465,
+            "user_id": 0,
+            "expected_power_per_hour": 4.86,
+            "expected_lifetime": 2,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 466,
+            "user_id": 2,
+            "expected_power_per_hour": 2.2,
+            "expected_lifetime": 1,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 467,
+            "user_id": 1,
+            "expected_power_per_hour": 9.9,
+            "expected_lifetime": 2,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 468,
+            "user_id": 2,
+            "expected_power_per_hour": 0.89,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 469,
+            "user_id": 1,
+            "expected_power_per_hour": 2.51,
+            "expected_lifetime": 2,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 470,
+            "user_id": 2,
+            "expected_power_per_hour": 5.38,
+            "expected_lifetime": 4,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 471,
+            "user_id": 2,
+            "expected_power_per_hour": 4.62,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 472,
+            "user_id": 0,
+            "expected_power_per_hour": 6.51,
+            "expected_lifetime": 2,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 473,
+            "user_id": 0,
+            "expected_power_per_hour": 3.52,
+            "expected_lifetime": 4,
+            "request_source": "aws_Stockholm"
+        }
+    ],
+    "2025-05-14T00:00:00.000Z": [
+        {
+            "job_id": 474,
+            "user_id": 2,
+            "expected_power_per_hour": 8.78,
+            "expected_lifetime": 4,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 475,
+            "user_id": 0,
+            "expected_power_per_hour": 8.32,
+            "expected_lifetime": 2,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 476,
+            "user_id": 1,
+            "expected_power_per_hour": 1.85,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 477,
+            "user_id": 0,
+            "expected_power_per_hour": 8.88,
+            "expected_lifetime": 4,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 478,
+            "user_id": 0,
+            "expected_power_per_hour": 9.25,
+            "expected_lifetime": 2,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 479,
+            "user_id": 0,
+            "expected_power_per_hour": 5.36,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 480,
+            "user_id": 1,
+            "expected_power_per_hour": 5.87,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 481,
+            "user_id": 2,
+            "expected_power_per_hour": 0.71,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 482,
+            "user_id": 2,
+            "expected_power_per_hour": 7.83,
+            "expected_lifetime": 2,
+            "request_source": "gcp_New Albany"
+        }
+    ],
+    "2025-05-14T01:00:00.000Z": [
+        {
+            "job_id": 483,
+            "user_id": 0,
+            "expected_power_per_hour": 1.07,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 484,
+            "user_id": 1,
+            "expected_power_per_hour": 4.19,
+            "expected_lifetime": 1,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 485,
+            "user_id": 1,
+            "expected_power_per_hour": 6.07,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Fredericia"
+        }
+    ],
+    "2025-05-14T02:00:00.000Z": [
+        {
+            "job_id": 486,
+            "user_id": 0,
+            "expected_power_per_hour": 7.75,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 487,
+            "user_id": 1,
+            "expected_power_per_hour": 7.28,
+            "expected_lifetime": 2,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 488,
+            "user_id": 0,
+            "expected_power_per_hour": 4.22,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 489,
+            "user_id": 1,
+            "expected_power_per_hour": 4.44,
+            "expected_lifetime": 3,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 490,
+            "user_id": 2,
+            "expected_power_per_hour": 3.63,
+            "expected_lifetime": 1,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 491,
+            "user_id": 2,
+            "expected_power_per_hour": 9.56,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 492,
+            "user_id": 2,
+            "expected_power_per_hour": 0.62,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 493,
+            "user_id": 2,
+            "expected_power_per_hour": 0.59,
+            "expected_lifetime": 1,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 494,
+            "user_id": 2,
+            "expected_power_per_hour": 1.14,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 495,
+            "user_id": 1,
+            "expected_power_per_hour": 5.94,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Lenoir"
+        }
+    ],
+    "2025-05-14T03:00:00.000Z": [
+        {
+            "job_id": 496,
+            "user_id": 0,
+            "expected_power_per_hour": 1.9,
+            "expected_lifetime": 1,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 497,
+            "user_id": 1,
+            "expected_power_per_hour": 2.55,
+            "expected_lifetime": 3,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 498,
+            "user_id": 1,
+            "expected_power_per_hour": 7.67,
+            "expected_lifetime": 2,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 499,
+            "user_id": 0,
+            "expected_power_per_hour": 4.82,
+            "expected_lifetime": 2,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 500,
+            "user_id": 1,
+            "expected_power_per_hour": 2.49,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 501,
+            "user_id": 0,
+            "expected_power_per_hour": 9.83,
+            "expected_lifetime": 2,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 502,
+            "user_id": 2,
+            "expected_power_per_hour": 5.74,
+            "expected_lifetime": 4,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 503,
+            "user_id": 2,
+            "expected_power_per_hour": 0.6,
+            "expected_lifetime": 4,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 504,
+            "user_id": 1,
+            "expected_power_per_hour": 5.82,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 505,
+            "user_id": 1,
+            "expected_power_per_hour": 2.7,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        }
+    ],
+    "2025-05-14T04:00:00.000Z": [
+        {
+            "job_id": 506,
+            "user_id": 2,
+            "expected_power_per_hour": 2.82,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 507,
+            "user_id": 2,
+            "expected_power_per_hour": 8.06,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 508,
+            "user_id": 2,
+            "expected_power_per_hour": 1.52,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 509,
+            "user_id": 1,
+            "expected_power_per_hour": 6.68,
+            "expected_lifetime": 3,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 510,
+            "user_id": 2,
+            "expected_power_per_hour": 8.19,
+            "expected_lifetime": 3,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 511,
+            "user_id": 0,
+            "expected_power_per_hour": 8.56,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 512,
+            "user_id": 1,
+            "expected_power_per_hour": 5.52,
+            "expected_lifetime": 1,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 513,
+            "user_id": 0,
+            "expected_power_per_hour": 5.62,
+            "expected_lifetime": 3,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 514,
+            "user_id": 2,
+            "expected_power_per_hour": 2.27,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 515,
+            "user_id": 2,
+            "expected_power_per_hour": 4.22,
+            "expected_lifetime": 4,
+            "request_source": "azure_San Antonio"
+        }
+    ],
+    "2025-05-14T05:00:00.000Z": [
+        {
+            "job_id": 516,
+            "user_id": 0,
+            "expected_power_per_hour": 5.89,
+            "expected_lifetime": 1,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 517,
+            "user_id": 2,
+            "expected_power_per_hour": 6.11,
+            "expected_lifetime": 3,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 518,
+            "user_id": 1,
+            "expected_power_per_hour": 7.81,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 519,
+            "user_id": 1,
+            "expected_power_per_hour": 9.15,
+            "expected_lifetime": 1,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 520,
+            "user_id": 2,
+            "expected_power_per_hour": 8.79,
+            "expected_lifetime": 4,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 521,
+            "user_id": 1,
+            "expected_power_per_hour": 1.7,
+            "expected_lifetime": 2,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 522,
+            "user_id": 1,
+            "expected_power_per_hour": 2.32,
+            "expected_lifetime": 3,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 523,
+            "user_id": 2,
+            "expected_power_per_hour": 5.0,
+            "expected_lifetime": 2,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 524,
+            "user_id": 2,
+            "expected_power_per_hour": 5.61,
+            "expected_lifetime": 2,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 525,
+            "user_id": 1,
+            "expected_power_per_hour": 5.43,
+            "expected_lifetime": 4,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 526,
+            "user_id": 1,
+            "expected_power_per_hour": 8.48,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 527,
+            "user_id": 2,
+            "expected_power_per_hour": 5.29,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 528,
+            "user_id": 1,
+            "expected_power_per_hour": 8.08,
+            "expected_lifetime": 1,
+            "request_source": "azure_Dublin"
+        }
+    ],
+    "2025-05-14T06:00:00.000Z": [
+        {
+            "job_id": 529,
+            "user_id": 1,
+            "expected_power_per_hour": 8.84,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 530,
+            "user_id": 0,
+            "expected_power_per_hour": 9.73,
+            "expected_lifetime": 1,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 531,
+            "user_id": 1,
+            "expected_power_per_hour": 3.1,
+            "expected_lifetime": 2,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 532,
+            "user_id": 1,
+            "expected_power_per_hour": 2.37,
+            "expected_lifetime": 1,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 533,
+            "user_id": 0,
+            "expected_power_per_hour": 6.6,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 534,
+            "user_id": 0,
+            "expected_power_per_hour": 4.66,
+            "expected_lifetime": 3,
+            "request_source": "aws_Sydney"
+        }
+    ],
+    "2025-05-14T07:00:00.000Z": [
+        {
+            "job_id": 535,
+            "user_id": 0,
+            "expected_power_per_hour": 9.54,
+            "expected_lifetime": 1,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 536,
+            "user_id": 0,
+            "expected_power_per_hour": 7.53,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 537,
+            "user_id": 2,
+            "expected_power_per_hour": 7.48,
+            "expected_lifetime": 1,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 538,
+            "user_id": 0,
+            "expected_power_per_hour": 9.5,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 539,
+            "user_id": 1,
+            "expected_power_per_hour": 7.6,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 540,
+            "user_id": 0,
+            "expected_power_per_hour": 7.49,
+            "expected_lifetime": 4,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 541,
+            "user_id": 1,
+            "expected_power_per_hour": 2.9,
+            "expected_lifetime": 4,
+            "request_source": "aws_Dublin"
+        }
+    ],
+    "2025-05-14T08:00:00.000Z": [
+        {
+            "job_id": 542,
+            "user_id": 1,
+            "expected_power_per_hour": 7.7,
+            "expected_lifetime": 2,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 543,
+            "user_id": 2,
+            "expected_power_per_hour": 1.45,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 544,
+            "user_id": 0,
+            "expected_power_per_hour": 8.04,
+            "expected_lifetime": 2,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 545,
+            "user_id": 0,
+            "expected_power_per_hour": 9.82,
+            "expected_lifetime": 1,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 546,
+            "user_id": 2,
+            "expected_power_per_hour": 4.72,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 547,
+            "user_id": 0,
+            "expected_power_per_hour": 6.38,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 548,
+            "user_id": 0,
+            "expected_power_per_hour": 6.21,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 549,
+            "user_id": 2,
+            "expected_power_per_hour": 9.0,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 550,
+            "user_id": 0,
+            "expected_power_per_hour": 3.78,
+            "expected_lifetime": 4,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 551,
+            "user_id": 0,
+            "expected_power_per_hour": 4.31,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Dublin"
+        }
+    ],
+    "2025-05-14T09:00:00.000Z": [
+        {
+            "job_id": 552,
+            "user_id": 0,
+            "expected_power_per_hour": 6.38,
+            "expected_lifetime": 3,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 553,
+            "user_id": 0,
+            "expected_power_per_hour": 0.58,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 554,
+            "user_id": 1,
+            "expected_power_per_hour": 6.03,
+            "expected_lifetime": 2,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 555,
+            "user_id": 2,
+            "expected_power_per_hour": 8.34,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 556,
+            "user_id": 2,
+            "expected_power_per_hour": 0.62,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 557,
+            "user_id": 0,
+            "expected_power_per_hour": 1.13,
+            "expected_lifetime": 3,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 558,
+            "user_id": 0,
+            "expected_power_per_hour": 2.54,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 559,
+            "user_id": 0,
+            "expected_power_per_hour": 8.33,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 560,
+            "user_id": 1,
+            "expected_power_per_hour": 7.78,
+            "expected_lifetime": 3,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 561,
+            "user_id": 1,
+            "expected_power_per_hour": 5.17,
+            "expected_lifetime": 1,
+            "request_source": "gcp_New Albany"
+        }
+    ],
+    "2025-05-14T10:00:00.000Z": [
+        {
+            "job_id": 562,
+            "user_id": 1,
+            "expected_power_per_hour": 7.05,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 563,
+            "user_id": 0,
+            "expected_power_per_hour": 3.6,
+            "expected_lifetime": 4,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 564,
+            "user_id": 0,
+            "expected_power_per_hour": 3.33,
+            "expected_lifetime": 1,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 565,
+            "user_id": 0,
+            "expected_power_per_hour": 6.53,
+            "expected_lifetime": 2,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 566,
+            "user_id": 1,
+            "expected_power_per_hour": 1.46,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 567,
+            "user_id": 2,
+            "expected_power_per_hour": 1.27,
+            "expected_lifetime": 1,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 568,
+            "user_id": 1,
+            "expected_power_per_hour": 3.2,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 569,
+            "user_id": 0,
+            "expected_power_per_hour": 7.6,
+            "expected_lifetime": 1,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 570,
+            "user_id": 2,
+            "expected_power_per_hour": 0.55,
+            "expected_lifetime": 3,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 571,
+            "user_id": 1,
+            "expected_power_per_hour": 7.38,
+            "expected_lifetime": 3,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 572,
+            "user_id": 1,
+            "expected_power_per_hour": 5.16,
+            "expected_lifetime": 3,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 573,
+            "user_id": 1,
+            "expected_power_per_hour": 8.25,
+            "expected_lifetime": 2,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 574,
+            "user_id": 2,
+            "expected_power_per_hour": 4.77,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 575,
+            "user_id": 1,
+            "expected_power_per_hour": 9.19,
+            "expected_lifetime": 2,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 576,
+            "user_id": 0,
+            "expected_power_per_hour": 3.7,
+            "expected_lifetime": 1,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 577,
+            "user_id": 1,
+            "expected_power_per_hour": 2.37,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Midlothian"
+        }
+    ],
+    "2025-05-14T11:00:00.000Z": [
+        {
+            "job_id": 578,
+            "user_id": 1,
+            "expected_power_per_hour": 4.4,
+            "expected_lifetime": 1,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 579,
+            "user_id": 1,
+            "expected_power_per_hour": 1.71,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 580,
+            "user_id": 1,
+            "expected_power_per_hour": 3.4,
+            "expected_lifetime": 1,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 581,
+            "user_id": 0,
+            "expected_power_per_hour": 3.85,
+            "expected_lifetime": 2,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 582,
+            "user_id": 1,
+            "expected_power_per_hour": 1.64,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 583,
+            "user_id": 1,
+            "expected_power_per_hour": 2.5,
+            "expected_lifetime": 2,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 584,
+            "user_id": 0,
+            "expected_power_per_hour": 3.05,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 585,
+            "user_id": 1,
+            "expected_power_per_hour": 0.73,
+            "expected_lifetime": 2,
+            "request_source": "aws_Columbus"
+        }
+    ],
+    "2025-05-14T12:00:00.000Z": [
+        {
+            "job_id": 586,
+            "user_id": 0,
+            "expected_power_per_hour": 7.32,
+            "expected_lifetime": 3,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 587,
+            "user_id": 0,
+            "expected_power_per_hour": 3.05,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 588,
+            "user_id": 2,
+            "expected_power_per_hour": 6.92,
+            "expected_lifetime": 2,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 589,
+            "user_id": 1,
+            "expected_power_per_hour": 6.59,
+            "expected_lifetime": 1,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 590,
+            "user_id": 1,
+            "expected_power_per_hour": 5.86,
+            "expected_lifetime": 4,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 591,
+            "user_id": 0,
+            "expected_power_per_hour": 2.23,
+            "expected_lifetime": 3,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 592,
+            "user_id": 1,
+            "expected_power_per_hour": 3.07,
+            "expected_lifetime": 3,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 593,
+            "user_id": 1,
+            "expected_power_per_hour": 7.67,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 594,
+            "user_id": 0,
+            "expected_power_per_hour": 3.58,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 595,
+            "user_id": 1,
+            "expected_power_per_hour": 5.41,
+            "expected_lifetime": 4,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 596,
+            "user_id": 1,
+            "expected_power_per_hour": 7.13,
+            "expected_lifetime": 2,
+            "request_source": "azure_Northlake"
+        }
+    ],
+    "2025-05-14T13:00:00.000Z": [
+        {
+            "job_id": 597,
+            "user_id": 2,
+            "expected_power_per_hour": 8.53,
+            "expected_lifetime": 4,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 598,
+            "user_id": 0,
+            "expected_power_per_hour": 3.11,
+            "expected_lifetime": 2,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 599,
+            "user_id": 2,
+            "expected_power_per_hour": 7.68,
+            "expected_lifetime": 4,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 600,
+            "user_id": 2,
+            "expected_power_per_hour": 1.41,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 601,
+            "user_id": 0,
+            "expected_power_per_hour": 6.23,
+            "expected_lifetime": 4,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 602,
+            "user_id": 1,
+            "expected_power_per_hour": 0.87,
+            "expected_lifetime": 3,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 603,
+            "user_id": 0,
+            "expected_power_per_hour": 2.4,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Dublin"
+        }
+    ],
+    "2025-05-14T14:00:00.000Z": [
+        {
+            "job_id": 604,
+            "user_id": 2,
+            "expected_power_per_hour": 9.83,
+            "expected_lifetime": 4,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 605,
+            "user_id": 1,
+            "expected_power_per_hour": 0.55,
+            "expected_lifetime": 1,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 606,
+            "user_id": 2,
+            "expected_power_per_hour": 4.0,
+            "expected_lifetime": 1,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 607,
+            "user_id": 2,
+            "expected_power_per_hour": 6.51,
+            "expected_lifetime": 3,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 608,
+            "user_id": 0,
+            "expected_power_per_hour": 7.78,
+            "expected_lifetime": 3,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 609,
+            "user_id": 2,
+            "expected_power_per_hour": 0.82,
+            "expected_lifetime": 1,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 610,
+            "user_id": 1,
+            "expected_power_per_hour": 1.84,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 611,
+            "user_id": 1,
+            "expected_power_per_hour": 6.52,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 612,
+            "user_id": 0,
+            "expected_power_per_hour": 7.15,
+            "expected_lifetime": 3,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 613,
+            "user_id": 0,
+            "expected_power_per_hour": 0.66,
+            "expected_lifetime": 2,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 614,
+            "user_id": 0,
+            "expected_power_per_hour": 2.51,
+            "expected_lifetime": 2,
+            "request_source": "azure_Des Moines"
+        }
+    ],
+    "2025-05-14T15:00:00.000Z": [
+        {
+            "job_id": 615,
+            "user_id": 1,
+            "expected_power_per_hour": 6.19,
+            "expected_lifetime": 3,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 616,
+            "user_id": 0,
+            "expected_power_per_hour": 4.6,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 617,
+            "user_id": 1,
+            "expected_power_per_hour": 3.2,
+            "expected_lifetime": 1,
+            "request_source": "azure_Dublin"
+        },
+        {
+            "job_id": 618,
+            "user_id": 2,
+            "expected_power_per_hour": 7.69,
+            "expected_lifetime": 2,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 619,
+            "user_id": 2,
+            "expected_power_per_hour": 3.39,
+            "expected_lifetime": 1,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 620,
+            "user_id": 2,
+            "expected_power_per_hour": 8.23,
+            "expected_lifetime": 4,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 621,
+            "user_id": 0,
+            "expected_power_per_hour": 7.71,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 622,
+            "user_id": 1,
+            "expected_power_per_hour": 3.7,
+            "expected_lifetime": 1,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 623,
+            "user_id": 1,
+            "expected_power_per_hour": 7.07,
+            "expected_lifetime": 4,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 624,
+            "user_id": 0,
+            "expected_power_per_hour": 2.7,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 625,
+            "user_id": 2,
+            "expected_power_per_hour": 6.68,
+            "expected_lifetime": 3,
+            "request_source": "aws_Columbus"
+        }
+    ],
+    "2025-05-14T16:00:00.000Z": [
+        {
+            "job_id": 626,
+            "user_id": 0,
+            "expected_power_per_hour": 4.47,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 627,
+            "user_id": 1,
+            "expected_power_per_hour": 4.89,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 628,
+            "user_id": 2,
+            "expected_power_per_hour": 9.58,
+            "expected_lifetime": 2,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 629,
+            "user_id": 2,
+            "expected_power_per_hour": 4.98,
+            "expected_lifetime": 2,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 630,
+            "user_id": 0,
+            "expected_power_per_hour": 1.28,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 631,
+            "user_id": 1,
+            "expected_power_per_hour": 6.75,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Jackson County"
+        }
+    ],
+    "2025-05-14T17:00:00.000Z": [
+        {
+            "job_id": 632,
+            "user_id": 1,
+            "expected_power_per_hour": 7.31,
+            "expected_lifetime": 2,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 633,
+            "user_id": 1,
+            "expected_power_per_hour": 9.38,
+            "expected_lifetime": 2,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 634,
+            "user_id": 1,
+            "expected_power_per_hour": 8.28,
+            "expected_lifetime": 3,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 635,
+            "user_id": 0,
+            "expected_power_per_hour": 8.08,
+            "expected_lifetime": 1,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 636,
+            "user_id": 0,
+            "expected_power_per_hour": 6.77,
+            "expected_lifetime": 3,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 637,
+            "user_id": 1,
+            "expected_power_per_hour": 4.98,
+            "expected_lifetime": 4,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 638,
+            "user_id": 0,
+            "expected_power_per_hour": 9.97,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 639,
+            "user_id": 0,
+            "expected_power_per_hour": 5.19,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 640,
+            "user_id": 1,
+            "expected_power_per_hour": 0.76,
+            "expected_lifetime": 1,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 641,
+            "user_id": 0,
+            "expected_power_per_hour": 9.96,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 642,
+            "user_id": 2,
+            "expected_power_per_hour": 2.71,
+            "expected_lifetime": 2,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 643,
+            "user_id": 1,
+            "expected_power_per_hour": 6.64,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Fredericia"
+        }
+    ],
+    "2025-05-14T18:00:00.000Z": [
+        {
+            "job_id": 644,
+            "user_id": 2,
+            "expected_power_per_hour": 1.92,
+            "expected_lifetime": 3,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 645,
+            "user_id": 1,
+            "expected_power_per_hour": 8.68,
+            "expected_lifetime": 4,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 646,
+            "user_id": 2,
+            "expected_power_per_hour": 2.3,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 647,
+            "user_id": 2,
+            "expected_power_per_hour": 8.9,
+            "expected_lifetime": 2,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 648,
+            "user_id": 0,
+            "expected_power_per_hour": 6.1,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 649,
+            "user_id": 1,
+            "expected_power_per_hour": 5.57,
+            "expected_lifetime": 4,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 650,
+            "user_id": 2,
+            "expected_power_per_hour": 2.86,
+            "expected_lifetime": 1,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 651,
+            "user_id": 2,
+            "expected_power_per_hour": 1.4,
+            "expected_lifetime": 4,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 652,
+            "user_id": 0,
+            "expected_power_per_hour": 6.95,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 653,
+            "user_id": 1,
+            "expected_power_per_hour": 9.82,
+            "expected_lifetime": 4,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 654,
+            "user_id": 1,
+            "expected_power_per_hour": 4.47,
+            "expected_lifetime": 4,
+            "request_source": "azure_Northlake"
+        }
+    ],
+    "2025-05-14T19:00:00.000Z": [
+        {
+            "job_id": 655,
+            "user_id": 2,
+            "expected_power_per_hour": 0.55,
+            "expected_lifetime": 2,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 656,
+            "user_id": 2,
+            "expected_power_per_hour": 0.85,
+            "expected_lifetime": 2,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 657,
+            "user_id": 2,
+            "expected_power_per_hour": 1.42,
+            "expected_lifetime": 2,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 658,
+            "user_id": 0,
+            "expected_power_per_hour": 5.58,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 659,
+            "user_id": 0,
+            "expected_power_per_hour": 8.7,
+            "expected_lifetime": 4,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 660,
+            "user_id": 2,
+            "expected_power_per_hour": 1.81,
+            "expected_lifetime": 2,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 661,
+            "user_id": 0,
+            "expected_power_per_hour": 5.83,
+            "expected_lifetime": 2,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 662,
+            "user_id": 1,
+            "expected_power_per_hour": 2.22,
+            "expected_lifetime": 4,
+            "request_source": "azure_Northlake"
+        }
+    ],
+    "2025-05-14T20:00:00.000Z": [
+        {
+            "job_id": 663,
+            "user_id": 2,
+            "expected_power_per_hour": 0.75,
+            "expected_lifetime": 3,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 664,
+            "user_id": 0,
+            "expected_power_per_hour": 7.8,
+            "expected_lifetime": 2,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 665,
+            "user_id": 2,
+            "expected_power_per_hour": 1.92,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 666,
+            "user_id": 0,
+            "expected_power_per_hour": 9.75,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 667,
+            "user_id": 0,
+            "expected_power_per_hour": 6.44,
+            "expected_lifetime": 1,
+            "request_source": "aws_Sydney"
+        },
+        {
+            "job_id": 668,
+            "user_id": 2,
+            "expected_power_per_hour": 7.93,
+            "expected_lifetime": 3,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 669,
+            "user_id": 0,
+            "expected_power_per_hour": 6.24,
+            "expected_lifetime": 3,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 670,
+            "user_id": 2,
+            "expected_power_per_hour": 1.01,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Midlothian"
+        }
+    ],
+    "2025-05-14T21:00:00.000Z": [
+        {
+            "job_id": 671,
+            "user_id": 2,
+            "expected_power_per_hour": 7.85,
+            "expected_lifetime": 1,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 672,
+            "user_id": 0,
+            "expected_power_per_hour": 2.92,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 673,
+            "user_id": 2,
+            "expected_power_per_hour": 2.9,
+            "expected_lifetime": 2,
+            "request_source": "azure_San Antonio"
+        },
+        {
+            "job_id": 674,
+            "user_id": 2,
+            "expected_power_per_hour": 5.74,
+            "expected_lifetime": 1,
+            "request_source": "azure_Northlake"
+        },
+        {
+            "job_id": 675,
+            "user_id": 1,
+            "expected_power_per_hour": 7.59,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 676,
+            "user_id": 1,
+            "expected_power_per_hour": 6.72,
+            "expected_lifetime": 2,
+            "request_source": "gcp_Fredericia"
+        },
+        {
+            "job_id": 677,
+            "user_id": 2,
+            "expected_power_per_hour": 5.59,
+            "expected_lifetime": 2,
+            "request_source": "aws_Stockholm"
+        },
+        {
+            "job_id": 678,
+            "user_id": 1,
+            "expected_power_per_hour": 7.86,
+            "expected_lifetime": 1,
+            "request_source": "aws_Dublin"
+        },
+        {
+            "job_id": 679,
+            "user_id": 2,
+            "expected_power_per_hour": 5.81,
+            "expected_lifetime": 1,
+            "request_source": "azure_Northlake"
+        }
+    ],
+    "2025-05-14T22:00:00.000Z": [
+        {
+            "job_id": 680,
+            "user_id": 1,
+            "expected_power_per_hour": 1.78,
+            "expected_lifetime": 1,
+            "request_source": "gcp_New Albany"
+        },
+        {
+            "job_id": 681,
+            "user_id": 1,
+            "expected_power_per_hour": 3.14,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Dublin"
+        },
+        {
+            "job_id": 682,
+            "user_id": 0,
+            "expected_power_per_hour": 5.8,
+            "expected_lifetime": 1,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 683,
+            "user_id": 1,
+            "expected_power_per_hour": 1.54,
+            "expected_lifetime": 1,
+            "request_source": "aws_Santa Clara"
+        },
+        {
+            "job_id": 684,
+            "user_id": 1,
+            "expected_power_per_hour": 5.0,
+            "expected_lifetime": 1,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 685,
+            "user_id": 0,
+            "expected_power_per_hour": 8.51,
+            "expected_lifetime": 1,
+            "request_source": "azure_Des Moines"
+        },
+        {
+            "job_id": 686,
+            "user_id": 1,
+            "expected_power_per_hour": 6.32,
+            "expected_lifetime": 1,
+            "request_source": "aws_Stockholm"
+        }
+    ],
+    "2025-05-14T23:00:00.000Z": [
+        {
+            "job_id": 687,
+            "user_id": 2,
+            "expected_power_per_hour": 7.32,
+            "expected_lifetime": 1,
+            "request_source": "aws_Columbus"
+        },
+        {
+            "job_id": 688,
+            "user_id": 1,
+            "expected_power_per_hour": 6.94,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 689,
+            "user_id": 0,
+            "expected_power_per_hour": 5.99,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Jackson County"
+        },
+        {
+            "job_id": 690,
+            "user_id": 1,
+            "expected_power_per_hour": 8.07,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Lenoir"
+        },
+        {
+            "job_id": 691,
+            "user_id": 0,
+            "expected_power_per_hour": 5.99,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Douglas County"
+        },
+        {
+            "job_id": 692,
+            "user_id": 0,
+            "expected_power_per_hour": 7.36,
+            "expected_lifetime": 1,
+            "request_source": "gcp_Midlothian"
+        },
+        {
+            "job_id": 693,
+            "user_id": 0,
+            "expected_power_per_hour": 7.94,
+            "expected_lifetime": 1,
+            "request_source": "gcp_New Albany"
+        }
+    ]
+}
